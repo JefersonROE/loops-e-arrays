@@ -13,7 +13,7 @@ public class Ex6_Fatorial {
         System.out.println("Digite o número para descobrir o fatorial: ");
         fatorial = scan.nextInt();
 
-        for ( int i = fatorial; i <= 1; i--){
+        for ( int i = fatorial; i >= 1; i--){
 
         }
 
