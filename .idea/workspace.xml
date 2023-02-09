@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72de543-68e1-4521-a691-3944cc54dd08" name="Changes" comment="" />
+    <list default="true" id="c72de543-68e1-4521-a691-3944cc54dd08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_ArrayMultidimencional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675873712178</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Atualização comandos java">
+      <created>1675873922977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675873922977</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
